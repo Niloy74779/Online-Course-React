@@ -1,7 +1,8 @@
 const Coursedata = [
     {
+        "id":'1',
         "name":'Web Development Course',
-        "price":'$657',
+        "price": 657,
         "teacher":'Niloy',
         "student":'5675',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -10,8 +11,9 @@ const Coursedata = [
 
     },
     {
+        "id":'2',
         "name":'Vue Js Crash Course',
-        "price":'$21',
+        "price":21,
         "teacher":'Niloy',
         "student":'324',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -20,8 +22,9 @@ const Coursedata = [
 
     },
     {
+        "id":'3',
         "name":'React Js Crash Course',
-        "price":'$32',
+        "price": 32,
         "teacher":'Niloy',
         "student":'523',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -30,8 +33,9 @@ const Coursedata = [
 
     },
     {
+        "id":'4',
         "name":'Online  Crash Course',
-        "price":'$55',
+        "price":55,
         "teacher":'Niloy',
         "student":'545',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -40,8 +44,9 @@ const Coursedata = [
 
     },
     {
+        "id":'5',
         "name":'Angular Js Crash Course',
-        "price":'$46',
+        "price":46,
         "teacher":'Niloy',
         "student":'364',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -50,8 +55,9 @@ const Coursedata = [
 
     },
     {
+        "id":'6',
         "name":'Data Entry Crash Course',
-        "price":'$45',
+        "price": 45,
         "teacher":'Niloy',
         "student":'453',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -60,8 +66,9 @@ const Coursedata = [
 
     },
     {
+        "id":'7',
         "name":'Computer  Crash Course',
-        "price":'$34',
+        "price":34,
         "teacher":'Niloy',
         "student":'$432',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -70,8 +77,9 @@ const Coursedata = [
 
     },
     {
+        "id":'8',
         "name":'Onlise Crash Course',
-        "price":'$87',
+        "price":87,
         "teacher":'Niloy',
         "student":'978',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -80,8 +88,9 @@ const Coursedata = [
 
     },
     {
+        "id":'9',
         "name":'SEO  Crash Course',
-        "price":'$65',
+        "price":65,
         "teacher":'Niloy',
         "student":'443',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -90,8 +99,9 @@ const Coursedata = [
 
     },
     {
+        "id":'10',
         "name":'Node Js Crash Course',
-        "price":'$78',
+        "price": 78,
         "teacher":'Niloy',
         "student":'$687',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
@@ -100,8 +110,9 @@ const Coursedata = [
 
     },
     {
+        "id":'11',
         "name":'Web Design Course',
-        "price":'$48',
+        "price":48,
         "teacher":'Niloy',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'664',
@@ -110,8 +121,9 @@ const Coursedata = [
 
     },
     {
+        "id":'12',
         "name":'Online  Crash Course',
-        "price":'$34',
+        "price":34,
         "teacher":'Niloy',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'231',
@@ -120,8 +132,9 @@ const Coursedata = [
 
     },
     {
+        "id":'13',
         "name":'Online  Crash Course',
-        "price":'$50',
+        "price":50,
         "teacher":'Niloy',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'1230',
@@ -130,8 +143,9 @@ const Coursedata = [
 
     },
     {
+        "id":'14',
         "name":'Online  Crash Course',
-        "price":'$56',
+        "price":56,
         "teacher":'Niloy',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'90',
@@ -140,8 +154,9 @@ const Coursedata = [
 
     },
     {
+        "id":'15',
         "name":'Online  Crash Course',
-        "price":'$98',
+        "price":98,
         "teacher":'Niloy',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'986',
@@ -150,8 +165,9 @@ const Coursedata = [
 
     },
     {
+        "id":'16',
         "name":'Onlie  Crash Course',
-        "price":'$76',
+        "price": 76,
         "teacher":'Niloy',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'37435',
@@ -160,8 +176,9 @@ const Coursedata = [
 
     },
     {
+        "id":'17',
         "name":'Skillm Development Course',
-        "price":'$897',
+        "price":897,
         "teacher":'Niloy',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'8690',
@@ -170,8 +187,9 @@ const Coursedata = [
 
     },
     {
+        "id":'18',
         "name":'Programming  Crash Course',
-        "price":'$790',
+        "price":790,
         "teacher":'Niloy',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'0974',
@@ -180,8 +198,9 @@ const Coursedata = [
 
     },
     {
+        "id":'19',
         "name":'Online  Crash Course',
-        "price":'$658',
+        "price":658,
         "teacher":'Niloy',
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'233354',
@@ -190,8 +209,9 @@ const Coursedata = [
 
     },
     {
+        "id":'20',
         "name":'Job Crash Course',
-        "price":'$478',
+        "price":478,
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'907243',
         "img":'https://i.ibb.co/c32Y4XR/download.png',
@@ -199,8 +219,9 @@ const Coursedata = [
 
     },
     {
+        "id":'21',
         "name":'Searching  Crash Course',
-        "price":'$986',
+        "price":986,
         "about":'Better than REST API! Build a fast scalable HTTP/2 API for a Golang',
         "student":'09358',
         "img":'https://i.ibb.co/r3Q8GdQ/download-7.jpg',

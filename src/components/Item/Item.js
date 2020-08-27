@@ -9,7 +9,7 @@ const Item = (props) => {
                     <img className="card-img-top" src={img} alt={name} />
                     <div className="card-body">
                         <h5 className="card-title">{name}</h5>
-                        <h4 className="price">{price}</h4>
+                        <h4 className="price">${price}</h4>
                         <button className="btn btn-sm btn-primary"
                             onClick={() =>props.addToCart(props.course)}>Add to Cart</button>
                     </div>
