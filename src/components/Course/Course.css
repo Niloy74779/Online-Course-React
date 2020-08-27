@@ -1,0 +1,10 @@
+.course-container{
+    display: flex;
+    
+}
+.user-content{
+    border-right: 1px solid lightgray;
+}
+.cart{
+    margin: 50px; 
+}

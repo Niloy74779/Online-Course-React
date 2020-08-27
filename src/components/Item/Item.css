@@ -1,0 +1,15 @@
+.course{
+    display: inline-block;
+    
+    
+}
+
+.course:hover{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px lightgray;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,30 @@
+/*----navbar start----*/
+.navber{
+    margin-top: 20px;
+    padding:20px;
+}
+
+.search-bar{
+    position: relative;
+    width: 70%;
+    padding-right: 30px;
+}
+.search-bar .form-control{
+    background-color:white ;
+    
+    border-radius: 25px;
+    border-color: transparent;
+    padding-left: 30px;
+}
+.search-bar button{
+    position: absolute;
+    top: 0;
+    right: 20px;
+}
+.search-bar .btn:focus{
+    outline: none;
+    box-shadow: none;
+    color: #ff2a7e ;
+}
+
+/*--navbar end--*/
